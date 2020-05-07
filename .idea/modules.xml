@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_For_Testing.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_For_Testing.iml" group="Java_For_Testing" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/sandbox_main.iml" group="Java_For_Testing/sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/sandbox_test.iml" group="Java_For_Testing/sandbox" />
     </modules>
